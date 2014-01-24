@@ -6,8 +6,5 @@ author_email: me@irenemerino.com
 keywords: ""
 
 permalink: pretty
-auto: true
-server: true
 lsi: false
 pygments: true
-exclude: private
