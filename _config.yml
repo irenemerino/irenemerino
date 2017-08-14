@@ -7,4 +7,4 @@ keywords: ""
 
 permalink: pretty
 lsi: false
-pygments: true
+highlighter: true
