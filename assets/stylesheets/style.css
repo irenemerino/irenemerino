@@ -20,8 +20,9 @@ h3 code {
   font-weight: normal;
 }
 
-a, a:hover {
+a, a:hover, a:visited {
   color: #53231B;
+  text-decoration: underline;
 }
 
 /* Modal border color
@@ -349,7 +350,7 @@ a.brand span.visible-desktop{
 }
 
 .modal-footer {
- background: #889F57; 
+ background: #889F57;
 }
 
 .main-area {
